@@ -1,0 +1,1 @@
+import React from 'react';import SearchForm from './components/SearchForm';import './App.css';export default function App(){return (<div style={{maxWidth:900, margin:'30px auto'}}><SearchForm/></div>);}

@@ -1,0 +1,7 @@
+.search-wrapper{max-width:900px;margin:24px auto;padding:0 12px;}
+.input-container{position:relative;width:100%;background:#fff;border:1px solid #cbd5e1;border-radius:12px;padding:10px 14px;display:flex;align-items:center;gap:12px;box-sizing:border-box;}
+.icon{font-size:18px;color:#2563eb;flex:0 0 auto;}
+.icon.small{font-size:16px;color:#6b7280;}
+.input-field{border:none;outline:none;width:100%;font-size:15px;padding:6px 0;background:transparent;color:#111827;box-sizing:border-box;}
+.btn-search{flex:0 0 auto;background:#2563eb;color:#fff;border:none;padding:8px 14px;border-radius:8px;cursor:pointer;font-size:15px;font-weight:600;}
+.err{color:#b91c1c;margin-top:12px;font-weight:600;}
